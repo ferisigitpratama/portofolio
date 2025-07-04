@@ -7,7 +7,9 @@ return (
     <div className="container border mx-auto h-screen">
       
         <div className="col-span-6">
-          <Lanyard position={[0, 0, 20]} gravity={[0, -40, 0]} />
+          <div className="min-h-screen flex justify-end items-center">
+      <Lanyard position={[0, 0, 60]} gravity={[0, -40, 0]} />
+    </div>
         </div>
       </div>
     </div>

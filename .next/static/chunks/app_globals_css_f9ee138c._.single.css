@@ -325,6 +325,10 @@
     justify-content: center;
   }
 
+  .justify-end {
+    justify-content: flex-end;
+  }
+
   .overflow-x-hidden {
     overflow-x: hidden;
   }
