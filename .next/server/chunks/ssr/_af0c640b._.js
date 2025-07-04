@@ -80,7 +80,7 @@ function Home() {
                         position: [
                             0,
                             0,
-                            60
+                            20
                         ],
                         gravity: [
                             0,
