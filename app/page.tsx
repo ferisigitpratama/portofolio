@@ -8,7 +8,7 @@ return (
       <div className="grid grid-cols-12">
         <div className="col-span-6">A</div>
         <div className="col-span-6">
-          <Lanyard />
+          <Lanyard position={[0, 0, 20]} gravity={[0, -40, 0]} />
         </div>
       </div>
     </div>
