@@ -7,7 +7,6 @@ return (
       <div className="grid grid-cols-12">
         <div className="cool-span-6">A</div>
         <div className="cool-span-6">B</div>
-        <div className="cool-span-6">C</div>
       </div>
     </div>
   </div>
