@@ -8,7 +8,7 @@ return (
       
         <div className="col-span-6">
           <div className="min-h-screen flex justify-end items-center">
-      <Lanyard position={[0, 0, 20]} gravity={[0, 40, 0]} />
+      <Lanyard position={[0, 10, 20]} gravity={[0, -40, 0]} />
     </div>
         </div>
       </div>

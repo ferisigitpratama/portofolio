@@ -84,7 +84,7 @@ function Home() {
                         ],
                         gravity: [
                             0,
-                            40,
+                            -40,
                             0
                         ]
                     }, void 0, false, {
